@@ -2,7 +2,7 @@
 
 FiveCity Schutzwesten Script
 
-```json
+```lua
 Config = {}
 
 Config.Herstellung = {
